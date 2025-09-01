@@ -1,4 +1,4 @@
-## Walmart Store Sales Forecasting
+# Walmart Store Sales Forecasting
 This project analyzes historical sales data from Walmart stores to identify trends, perform exploratory data analysis (EDA), and build predictive models for future sales. It is based on the Kaggle Walmart Store Sales Forecasting competition.
 # 📌 Project Overview
 The goal of this project is to forecast weekly sales for different Walmart stores and departments. The dataset includes:
